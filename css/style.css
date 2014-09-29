@@ -29,7 +29,7 @@ a:hover, footer a:hover, footer a.active, aside a, em.on, .theme, .page h5, a.th
 /* Background colors */
 /* ================= */
 
-body {background: #f2f2f2 url(../img/background/light_grey_@2x.jpg);}
+body {background: #f2f2f2 url(../img/background/light_grey_@2X.jpg);}
 .container, .horizontal-nav ul, h6.subhead strong {background: #FFF}
 .feat .nav-pills > .active > a, .feat .nav-pills > .active > a:hover, .product .nav-pills > .active > a, .product .nav-pills > .active > a:hover, button.theme, .share a, .flex-control-paging li a.flex-active, .horizontal-nav li a:hover, a.btn.theme {background:#E55137}
 header.prime, .sidebar .tags span, .comments article:hover {background: #f2f2f2}
@@ -99,7 +99,7 @@ img.alignright {padding-left: 10px}
 .call-to-action {margin-top: 20px}
 
 .top {padding-top: 20px; padding-bottom: 20px;}
-.top .logo a {font-size:4em; line-height:1em; padding-left: 20px} 
+.top .logo a {font-size:4em; padding-left: 20px}
 .top .logo.image img {max-width:100px}
 .top .cart {text-align: right;}
 .top .cart form {position: relative; margin-top:10px}
